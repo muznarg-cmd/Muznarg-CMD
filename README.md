@@ -24,8 +24,6 @@ Este perfil será utilizado para registrar meus estudos, projetos e evolução p
 
 ## Meus projetos
 
-## Meus projetos
-
 ### 📚 OCMT e BRIO — Pesquisa de Iniciação Científica
 
 Pesquisa sobre a metodologia Gestão Cognitiva Otimizada com Tecnologias e sua aplicação educacional por meio do BRIO.
