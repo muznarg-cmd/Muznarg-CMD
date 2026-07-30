@@ -24,16 +24,44 @@ Este perfil será utilizado para registrar meus estudos, projetos e evolução p
 
 ## Meus projetos
 
-🚧 Estou organizando e publicando meus primeiros projetos.
+## Meus projetos
+
+### 📚 OCMT e BRIO — Pesquisa de Iniciação Científica
+
+Pesquisa sobre a metodologia Gestão Cognitiva Otimizada com Tecnologias e sua aplicação educacional por meio do BRIO.
+
+🔗 [Ver pesquisa e materiais acadêmicos](https://github.com/Muznarg-CMD/brio-pesquisa-ic)
+
+### 💻 BRIO — Aplicação Web
+
+Protótipo educacional desenvolvido para aplicar os princípios da OCMT em um ambiente digital.
+
+🔗 [Ver repositório](https://github.com/Muznarg-CMD/brio-app-educacional)  
+🌐 [Abrir aplicação](https://muznarg-cmd.github.io/brio-app-educacional/)
+
+### 📱 BRIO — Aplicativo Android
+
+Versão Android do BRIO, com código-fonte e APK experimental disponível para instalação.
+
+🔗 [Ver aplicativo Android](https://github.com/Muznarg-CMD/brio-app-android)  
+📥 [Baixar versão experimental](https://github.com/Muznarg-CMD/brio-app-android/releases)
+
+### 🏘️ Meu Bairro no Mural
+
+Projeto pedagógico de Linguagens sobre identidade, território, memória e pertencimento.
+
+🔗 [Ver projeto educacional](https://github.com/Muznarg-CMD/meu-bairro-no-mural)
 
 Em breve, você encontrará aqui:
 
-- Aplicações e ferramentas educacionais
+- Desenvolvimento de aplicações e ferramentas educacionais
 - Planos e materiais didáticos
 - Projetos de Linguagens
 - Exercícios de programação
 - Modelos e estudos em Blender
-- Criações para Roblox
+- Criação e design para Roblox UGC
+- Blender e modelagem 3D
+- - Metodologias de ensino e aprendizagem ativa
 
 ## Objetivos
 
